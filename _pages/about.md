@@ -16,10 +16,10 @@ News
 [2022/09] The paper *GHive: Accelerating Analytical Query Processing in Apache Hive via CPU-GPU Heterogeneous Computing* has been accepted by SoCC'22. Congrats to the team!\
 [2022/07] I obtained my B.E. degree from SUSTech.
 
-Education
+<!-- Education
 ======
 **Southern University of Science and Technology**, August 2018 - July 2022\
-Bachelor of Engineering in Compute Science and Technology
+Bachelor of Engineering in Compute Science and Technology -->
 
 <!-- Research
 ======
@@ -47,7 +47,8 @@ Intern\
 April 2021 - June 2022
 
 **SUSTech**\
-Teaching assistant for Operating Systems and Introduction to Java Programming
+Teaching assistant\
+CS102B Introduction to Java Programming, CS201 Digital Logic, CS302 Operating Systems
 
 Awards & Honors
 ======
