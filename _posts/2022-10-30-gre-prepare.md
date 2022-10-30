@@ -12,7 +12,7 @@ Background
 ======
 The purpose of this blog is to help those who have similar background and want to get a similar score. For those who do not, I am afraid that this blog might not be helpful. Also, please forgive me for all the mistakes I made in this blog since I'm not a pro in GRE teaching and I did not take any lesssons. Feel free to contact me via email if you have any comments.
 
-I was born, raised, and attended a university in China. Before preparing for my GRE test, my TOEFL score was 109 (writing 26 and speaking 23). It took me about 2 to 3 months half time (actually maybe even less since I was running a lot of errands) without taking any lessons, and my GRE score was 158 for V, 170 for G, and 4.0 for AW.
+I was born, raised, and attended a university in China. Before preparing for my GRE test, my TOEFL score was 109 (writing 26 and speaking 23). It took me about 2 to 3 months half time (actually maybe even less since I was running a lot of errands) without taking any lessons, and my GRE score was 158 for V, 170 for Q, and 4.0 for AW.
 
 This blog is not an advertisement.
 
@@ -36,7 +36,7 @@ Quantitative
 ======
 The math education in each country is different. In China, high school math can cover GRE quantitative part. Just do some hard questions (I did 150 questions) in GRE quantitative and be careful and optimistic during your test.
 
-Analytical Writing
+AW
 ======
 4.0 in AW is again not high at all but again I think it is fine since this is what a lot of my peers do. It is perfectly fine if you want a better score.
 
