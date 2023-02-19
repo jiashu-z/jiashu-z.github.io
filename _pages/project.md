@@ -9,7 +9,7 @@ redirect_from:
 **FlinkSketch - A Sketch Analytical System for Multidimensional Data Streams**\
 August 2022 - Present\
 [[LINK]](https://github.com/wateryloo/flinksketch)
-![](../images/flinksketch.jpg)
+![](../images/FlinkSketch.jpg)
 - Implement a sketch system based on Apache Flink.
 - Implement sketch-of-sketches to reduce memory consumption.
 
