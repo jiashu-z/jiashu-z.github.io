@@ -8,10 +8,14 @@ redirect_from:
 ---
 **FlinkSketch - A Sketch Analytical System for Multidimensional Data Streams**\
 August 2022 - Present\
-[[LINK]](https://github.com/wateryloo/flinksketch)
+[[Will be open-source!]](https://github.com/wateryloo/flinksketch)
 ![](../images/FlinkSketch.jpg)
-- Implement a sketch system based on Apache Flink.
-- Implement sketch-of-sketches to reduce memory consumption.
+- Implemented a sketch analytical system for multidimensional data streams based on Apache Flink.
+- Implemented the Sketch-of-sketches mechanism.
+- Integrated the universal sketch algorithm.
+- Implemented the hashed mini-batch mechanism.
+- Fully deployable through common public network services, e.g., Flink, Kafka, PostgreSQL, and Grafana.
+- Easy management of sketches and queries with full-duplex client-engine communication.
 
 **Benchmarking Cloud-Native Storage Engines**\
 April 2021 - June 2022
