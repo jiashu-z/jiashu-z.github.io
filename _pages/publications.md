@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publication"
-permalink: /publication/
+title: "Publications"
+permalink: /publications/
 author_profile: true
 redirect_from:
   - /publications
@@ -17,6 +17,6 @@ redirect_from:
   {% include archive-single.html %}
 {% endfor %} -->
 
-[1] **J. Zhang**, W. Jiang, B. Tang, H. Ma, L. Cao, Z. Jiang, Y. Nie, F. Wang, L. Zhang, Y. Liang. CDSBen: Benchmarking the Performance of Storage Services in Cloud-Native Database System at ByteDance. In submission.\
+[1] **J. Zhang**, W. Jiang, B. Tang, H. Ma, L. Cao, Z. Jiang, Y. Nie, F. Wang, L. Zhang, Y. Liang. CDSBen: Benchmarking the Performance of Storage Services in Cloud-Native Database System at ByteDance. In VLDB'23.\
 [2] H. Liu, B. Tang, **J. Zhang**, Y. Deng, X. Zheng, Q. Shen, X. Yan, D. Zeng, Z. Mao, C. Zhang, Z. You, Z. Wang, R. Jiang, F. Wang, M. Yiu, H. Li, M. Han, Q. Li, Z. Luo. GHive: A Demonstration of GPU-Accelerated Query Processing in Apache Hive. In SIGMOD'22. [[LINK]](https://dl.acm.org/doi/abs/10.1145/3514221.3520166)[[PDF]](/files/SIGMOD22GHive_Demo.pdf)\
 [3] H. Liu, B. Tang, **J. Zhang**, Y. Deng, X. Zheng, Q. Shen, X. Yan, D. Zeng, Z. Mao, C. Zhang, Z. You, Z. Wang, R. Jiang, F. Wang, M. Yiu, H. Li, M. Han, Q. Li, Z. Luo. GHive: Accelerating Analytical Query Processing in Apache Hive via CPU-GPU Heterogeneous Computing. In SoCC'22. [[LINK]](https://dl.acm.org/doi/10.1145/3542929.3563503)[[PDF]](/files/SoCC22GHive.pdf)
