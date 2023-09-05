@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jiashu Zhang's Homepage"
 title_separator          : "-"
 name                     : &name "Jiashu Zhang"
-description              : &description "I'm in the middle of somewhere!"
+# description              : &description "I'm in the middle of somewhere!"
 url                      : https://jiashu-z.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jiashu Zhang"
   avatar           : "photo.jpg"
-  bio              : "I'm in the middle of somewhere!"
-  location         : "China"
+  # bio              : "I'm in the middle of somewhere!"
+  # location         : "Canada"
   # employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=DIcq-BwAAAAJ"
-  email            : "mailto:jackjiashuz@gmail.com"
+  email            : "mailto:jiashu.zhang@uwaterloo.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
